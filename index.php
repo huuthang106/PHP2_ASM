@@ -51,7 +51,21 @@
             case 'list_diary':
                 include "App/views/listDiary.php";
                 break;
+            case 'details_diray':
+                include "App/views/details_diray.php";
+                break;
+            case 'add_diary':
+                include "App/views/add_diary.php";
+                break;
+            case 'updata_diray':
+                include "App/views/updata_diray.php";
+                break;
+            case 'add_member':
+                include "App/views/add_member.php";
+                break;
         }
+        
+
 
         ?>
 
@@ -81,10 +95,10 @@
 
     <!-- Template Javascript -->
     <script src="public/js/main.js"></script>
-<!-- database.net -->
-<script src="//cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+    <!-- database.net -->
+    <script src="//cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
     <script src="public/js/add.js"></script>
-    
+
 
 
 
