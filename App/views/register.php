@@ -10,7 +10,7 @@
                             <a href="index.html" class="">
                                 <h3 class="text-primary"><i class="fa fa-user-edit me-2"></i>Nhật ký </h3>
                             </a>
-                            <h3>Đăng nhập</h3>
+                            <h3>Đăng ký</h3>
                         </div>
                         <div class="form-floating mb-3">
                             <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
@@ -18,7 +18,11 @@
                         </div>
                         <div class="form-floating mb-4">
                             <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
-                            <label for="floatingPassword">Password</label>
+                            <label for="floatingPassword">Mật khẩu</label>
+                        </div>
+                        <div class="form-floating mb-4">
+                            <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+                            <label for="floatingPassword">Nhập lại mật khẩu</label>
                         </div>
                         <div class="d-flex align-items-center justify-content-between mb-4">
                             <div class="form-check">
@@ -28,8 +32,9 @@
                             <a href="index.php?act=fogot_password">Quên mật khẩu</a>
                         </div>
                         <!-- <button type="submit" class="btn btn-primary py-3 w-100 mb-4">Đăng nhập</button> -->
-                        <a href="index.php?act=home" class="btn btn-primary py-3 w-100 mb-4">Đăng nhập</a>
-                        <p class="text-center mb-0">Bạn chưa có tài khoảng? <a href="index.php?act=register">Đăng ký</a></p>
+                        <a href="index.php?act=home" class="btn btn-primary py-3 w-100 mb-4">Đăng ký</a>
+                        <p class="text-center mb-0">Bạn đã có tài khoảng? <a href="index.php?act=signin">Đăng nhập</a></p>
+                     
                     </div>
                 </div>
             </div>

@@ -10,25 +10,16 @@
                             <a href="index.html" class="">
                                 <h3 class="text-primary"><i class="fa fa-user-edit me-2"></i>Nhật ký </h3>
                             </a>
-                            <h3>Đăng nhập</h3>
+                            <h3>Quên mật khẩu</h3>
                         </div>
                         <div class="form-floating mb-3">
                             <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
                             <label for="floatingInput">Email address</label>
                         </div>
-                        <div class="form-floating mb-4">
-                            <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
-                            <label for="floatingPassword">Password</label>
-                        </div>
-                        <div class="d-flex align-items-center justify-content-between mb-4">
-                            <div class="form-check">
-                                <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                <label class="form-check-label" for="exampleCheck1">Check me out</label>
-                            </div>
-                            <a href="index.php?act=fogot_password">Quên mật khẩu</a>
-                        </div>
+                        
+                       
                         <!-- <button type="submit" class="btn btn-primary py-3 w-100 mb-4">Đăng nhập</button> -->
-                        <a href="index.php?act=home" class="btn btn-primary py-3 w-100 mb-4">Đăng nhập</a>
+                        <a href="index.php?act=home" class="btn btn-primary py-3 w-100 mb-4">Đồng ý</a>
                         <p class="text-center mb-0">Bạn chưa có tài khoảng? <a href="index.php?act=register">Đăng ký</a></p>
                     </div>
                 </div>

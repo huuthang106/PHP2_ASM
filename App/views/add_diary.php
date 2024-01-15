@@ -3,9 +3,9 @@
 <?php include('App/views/layouts/navbar.php') ?>
 <div class="container-fluid pt-4 px-4">
     <div class="row g-4">
-        <div class="col-sm-12 col-xl-10 mx-auto">
+        <div class="col-sm-12 col-xl-9 mx-auto">
             <div class="bg-secondary rounded h-100 p-4">
-                <h6 class="mb-4">Nhật ký</h6>
+                <h6 class="mb-4">Thêm nhật ký</h6>
                 <form>
                     <div class="mb-3">
                         <label for="exampleInputEmail1" class="form-label">Tiêu đề</label>

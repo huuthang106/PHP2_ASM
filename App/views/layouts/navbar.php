@@ -16,7 +16,7 @@
                 </a>
                 <div class="d-flex align-items-center ms-4 mb-4">
                     <div class="position-relative">
-                        <img class="rounded-circle" src="public/img/user.jpg" alt="" style="width: 40px; height: 40px;">
+                        <img class="rounded-circle" src="public/assets/img/user.jpg" alt="" style="width: 40px; height: 40px;">
                         <div class="bg-success rounded-circle border border-2 border-white position-absolute end-0 bottom-0 p-1"></div>
                     </div>
                     <div class="ms-3">
@@ -57,33 +57,28 @@
                             <span class="d-none d-lg-inline-flex">Thông báo</span>
                         </a>
                         <div class="dropdown-menu dropdown-menu-end bg-secondary border-0 rounded-0 rounded-bottom m-0">
-                            <a href="#" class="dropdown-item">
-                                <h6 class="fw-normal mb-0">Xác nhận</h6>
+                            <a href="index.php?act=list_notification" class="dropdown-item">
+                                <h6 class="fw-normal mb-0">Lời mời tham gia Dự án 1</h6>
                                 <small>15 phút trưóc</small>
+                               
                             </a>
                             <hr class="dropdown-divider">
-                            <a href="#" class="dropdown-item">
-                            <h6 class="fw-normal mb-0">Xác nhận</h6>
-                                <small>15 phút trưóc</small>
-                            </a>
-                            <hr class="dropdown-divider">
-                            <a href="#" class="dropdown-item">
-                            <h6 class="fw-normal mb-0">Xác nhận</h6>
-                                <small>15 phút trưóc</small>
-                            </a>
-                            <hr class="dropdown-divider">
-                            <a href="#" class="dropdown-item text-center">Xem tất cả</a>
+                            
+                           
+                            <a href="index.php?act=list_notification" class="dropdown-item text-center">Xem tất cả</a>
                         </div>
                     </div>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">
-                            <img class="rounded-circle me-lg-2" src="public/img/user.jpg" alt="" style="width: 40px; height: 40px;">
+                            <img class="rounded-circle me-lg-2" src="public/assets/img/user.jpg" alt="" style="width: 40px; height: 40px;">
                             <span class="d-none d-lg-inline-flex">Hữu Thắng </span>
                         </a>
                         <div class="dropdown-menu dropdown-menu-end bg-secondary border-0 rounded-0 rounded-bottom m-0">
-                            <a href="#" class="dropdown-item">Hồ sơ</a>
-                            <a href="#" class="dropdown-item">Cày đặt</a>
-                            <a href="#" class="dropdown-item">Đăng xuất</a>
+                            <a href="index.php?act=profile" class="dropdown-item">Hồ sơ</a>
+                            <a href="index.php?act=change_password" class="dropdown-item">Đổi mật khẩu</a>
+                            <button type="button" onclick="createLogoutForm()" class="dropdown-item">Đăng xuất</button>
+
+
                         </div>
                     </div>
                 </div>
