@@ -45,9 +45,6 @@ session_start();
         if (isset($_GET['act']))
             $action = $_GET['act'];
 
-
-
-
         switch ($action) {
             case 'signin':
                 include "App/views/signin.php";
@@ -124,7 +121,7 @@ session_start();
     <!-- database.net -->
     <script src="//cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
     <script src="public/assets/js/add.js"></script>
-
+   
 
 
 

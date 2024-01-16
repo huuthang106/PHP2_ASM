@@ -11,8 +11,8 @@
                 <a href="index.php?act=details_diray" class="text-decoration-none">
                     <div class="bg-secondary rounded h-100 p-4">
                         <h6 class="mb-4">Dự án 1</h6>
-                        <p>Lần cuối: [Start Time]</p>
-                        <p>Ngày kết thúc: [End Time]</p>
+                        <p>Lần cuối: 14/1/2023</p>
+                        <p>Ngày kết thúc: 12/12/20224</p>
                         <!-- Your content for column 1 goes here -->
                     </div>
                 </a>
@@ -22,8 +22,8 @@
                 <a href="index.php?act=details_diray" class="text-decoration-none">
                     <div class="bg-secondary rounded h-100 p-4">
                         <h6 class="mb-4">Dự án 1</h6>
-                        <p>Lần cuối: [Start Time]</p>
-                        <p>Ngày kết thúc: [End Time]</p>
+                        <p>Lần cuối: 14/1/2023</p>
+                        <p>Ngày kết thúc: 12/12/20224</p>
                         <!-- Your content for column 1 goes here -->
                     </div>
                 </a>
@@ -34,8 +34,8 @@
                 <a href="index.php?act=details_diray" class="text-decoration-none">
                     <div class="bg-secondary rounded h-100 p-4">
                         <h6 class="mb-4">Dự án 1</h6>
-                        <p>Lần cuối: [Start Time]</p>
-                        <p>Ngày kết thúc: [End Time]</p>
+                        <p>Lần cuối: 14/1/2023</p>
+                        <p>Ngày kết thúc: 12/12/20224</p>
                         <!-- Your content for column 1 goes here -->
                     </div>
                 </a>
@@ -44,8 +44,8 @@
                 <a href="index.php?act=details_diray" class="text-decoration-none">
                     <div class="bg-secondary rounded h-100 p-4">
                         <h6 class="mb-4">Dự án 1</h6>
-                        <p>Lần cuối: [Start Time]</p>
-                        <p>Ngày kết thúc: [End Time]</p>
+                        <p>Lần cuối: 14/1/2023</p>
+                        <p>Ngày kết thúc: 12/12/20224</p>
                         <!-- Your content for column 1 goes here -->
                     </div>
                 </a>
@@ -54,8 +54,8 @@
                 <a href="index.php?act=details_diray" class="text-decoration-none">
                     <div class="bg-secondary rounded h-100 p-4">
                         <h6 class="mb-4">Dự án 1</h6>
-                        <p>Lần cuối: [Start Time]</p>
-                        <p>Ngày kết thúc: [End Time]</p>
+                        <p>Lần cuối: 14/1/2023</p>
+                        <p>Ngày kết thúc: 12/12/20224</p>
                         <!-- Your content for column 1 goes here -->
                     </div>
                 </a>
@@ -64,8 +64,8 @@
                 <a href="index.php?act=details_diray" class="text-decoration-none">
                     <div class="bg-secondary rounded h-100 p-4">
                         <h6 class="mb-4">Dự án 1</h6>
-                        <p>Lần cuối: [Start Time]</p>
-                        <p>Ngày kết thúc: [End Time]</p>
+                        <p>Lần cuối: 14/1/2023</p>
+                        <p>Ngày kết thúc: 12/12/20224</p>
                         <!-- Your content for column 1 goes here -->
                     </div>
                 </a>
@@ -74,8 +74,8 @@
                 <a href="index.php?act=details_diray" class="text-decoration-none">
                     <div class="bg-secondary rounded h-100 p-4">
                         <h6 class="mb-4">Dự án 1</h6>
-                        <p>Lần cuối: [Start Time]</p>
-                        <p>Ngày kết thúc: [End Time]</p>
+                        <p>Lần cuối: 14/1/2023</p>
+                        <p>Ngày kết thúc: 12/12/20224</p>
                         <!-- Your content for column 1 goes here -->
                     </div>
                 </a>
@@ -84,8 +84,8 @@
                 <a href="index.php?act=details_diray" class="text-decoration-none">
                     <div class="bg-secondary rounded h-100 p-4">
                         <h6 class="mb-4">Dự án 1</h6>
-                        <p>Lần cuối: [Start Time]</p>
-                        <p>Ngày kết thúc: [End Time]</p>
+                        <p>Lần cuối: 14/1/2023</p>
+                        <p>Ngày kết thúc: 12/12/20224</p>
                         <!-- Your content for column 1 goes here -->
                     </div>
                 </a>
@@ -94,8 +94,8 @@
                 <a href="index.php?act=details_diray" class="text-decoration-none">
                     <div class="bg-secondary rounded h-100 p-4">
                         <h6 class="mb-4">Dự án 1</h6>
-                        <p>Lần cuối: [Start Time]</p>
-                        <p>Ngày kết thúc: [End Time]</p>
+                        <p>Lần cuối: 14/1/2023</p>
+                        <p>Ngày kết thúc: 12/12/20224</p>
                         <!-- Your content for column 1 goes here -->
                     </div>
                 </a>

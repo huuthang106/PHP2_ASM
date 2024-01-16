@@ -11,7 +11,7 @@
                     <p class="card-text">Số điện thoại: +84 123 456 789</p>
                     <p class="card-text">Điểm: 100</p>
                     <p class="card-text">Thành tích: tập sự</p>
-                    <a href="index.php?act=update_user" class="btn btn-success m-2">Cập nhật tài khoảng</a>
+                    <a href="index.php?act=update_user" class="btn btn-success m-2">Cập nhật tài khoản</a>
                 </div>
             </div>
         </div>
