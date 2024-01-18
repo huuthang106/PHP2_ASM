@@ -76,7 +76,7 @@
                         <div class="dropdown-menu dropdown-menu-end bg-secondary border-0 rounded-0 rounded-bottom m-0">
                             <a href="index.php?act=profile" class="dropdown-item">Hồ sơ</a>
                             <a href="index.php?act=change_password" class="dropdown-item">Đổi mật khẩu</a>
-                            <button type="button" onclick="createLogoutForm()" class="dropdown-item">Đăng xuất</button>
+                            <button type="button" onclick="showLogoutConfirmation()" class="dropdown-item">Đăng xuất</button>
 
 
                         </div>

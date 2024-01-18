@@ -1,4 +1,4 @@
-<body class="bg-dark text-light">
+<body >
     <?php include('App/views/layouts/navbar.php') ?>
     <div class="container-fluid mt-5">
         <div class="row justify-content-center">

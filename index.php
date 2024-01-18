@@ -14,7 +14,9 @@ session_start();
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
-
+    <!-- jquery keo tha -->
+    
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -121,8 +123,30 @@ session_start();
     <!-- database.net -->
     <script src="//cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
     <script src="public/assets/js/add.js"></script>
-   
-
+        <!-- js keo tha -->
+        <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+<script type="text/javascript">
+    $('#sortable').sortable({
+    // placeholder: 'ui-state-highlight',
+    // update: function(event, ui) {
+    //     var array_id = [];
+    //     $('.order_position tr').each(function() {
+    //         array_id.push($(this).attr('id'));
+    //     })
+    //  $.ajax({
+    //     headers: {
+    //         'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+    //     },
+    //     url:"{{route('resorting')}}",
+    //     method:"POST",
+    //     data:{array_id:array_id},
+    //     success:function(data){
+    //         alert('Sắp xếp thứ tự thành công');
+    //     }
+    //  })
+    // }
+});
+</script>
 
 
 
