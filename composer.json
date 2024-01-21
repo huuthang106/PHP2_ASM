@@ -2,7 +2,7 @@
     "name": "admin/php2",
     "autoload": {
         "psr-4": {
-            "Admin\\Php2\\": "src/"
+            "App\\": "./App/"
         }
     },
     "authors": [
